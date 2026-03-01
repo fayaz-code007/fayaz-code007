@@ -1,6 +1,5 @@
 ## Hi, I am Fayaz 👋
 
-Full Stack React Developer with 6+ years (React.js, Node.js, GraphQL). Enterprise apps for Sun Life Financial (Toronto).
 
 **fayaz.code007@gmail.com
 Available for Hire**
@@ -9,9 +8,9 @@ Available for Hire**
 </div>
 
 ### 👨‍💻 About Me
-Full Stack developer with 6+ years building enterprise SPAs for Sun Life (Toronto) & Accenture. Passionate about performance, scalable UIs, and Agile delivery. Open work permit in Canada.
+Full Stack developer with 6+ years building enterprise SPAs for Sun Life (Toronto). Passionate about performance, scalable UIs, and Agile delivery.
 
-📧 fayaz.code007@gmail.com | 📱 +1 782-882-5446
+📧 fayaz.code007@gmail.com
 
 ### 🚀 Featured Projects
 | Project | Description | Tech | Demo |
